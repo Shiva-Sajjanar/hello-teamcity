@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello TeamCity</title>
+    <title>Hello World from TeamCity!</title>
 </head>
 <body>
 
